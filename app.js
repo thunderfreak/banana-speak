@@ -1,5 +1,11 @@
-// alert("js working!")
+var btnTranslate = document.querySelector("#btn-translate");
 
-// var a=prompt("enter name");
-// alert(a);
+var txtInput = document.querySelector("#txt-input");
+
+btnTranslate.addEventListener("click",function clickEventHandler(){
+    console.log("button clicked!");
+    console.log(txtInput.value);
+});
+
+
 

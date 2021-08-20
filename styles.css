@@ -1,5 +1,7 @@
-*{
-    margin:0px;
-    padding:0px;
-    box-sizing: border-box;
+textarea {
+    height: 10vh;
+    width: 80%;
+    display: block;
+    margin: 1rem;
+    padding: 0.5rem;
 }
