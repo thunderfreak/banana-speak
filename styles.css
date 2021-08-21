@@ -40,6 +40,7 @@ textarea {
     margin: 1rem 0rem;
     padding: 0.5rem;
     overflow: scroll;
+    text-align: left;
 }
 
 .header {
